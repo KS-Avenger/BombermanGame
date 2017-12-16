@@ -4,10 +4,10 @@
       Command for executing the game is ipython3 play.py
 
 ## The game contains 4 kinds of objects :
-      - Walls(Undestroyable)
-      - Bricks(Destroyable)
-      - Enemies(Destroyable)
-      - Bomberman(Destroyable)
+- Walls(Undestroyable)
+- Bricks(Destroyable)
+- Enemies(Destroyable)
+- Bomberman(Destroyable)
 
 ## Movements:
 -    You can control the moments of bomberman
